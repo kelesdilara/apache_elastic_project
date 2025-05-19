@@ -1,0 +1,4 @@
+.venv/
+raw_data/
+pre_data/
+output_data/
